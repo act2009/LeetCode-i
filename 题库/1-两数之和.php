@@ -37,7 +37,7 @@ class Solution {
     }
 
     /**
-     * @intro 暴力循环解题
+     * @intro 解题方法2
      * @param Integer[] $nums
      * @param Integer $target
      * @return Integer[]
