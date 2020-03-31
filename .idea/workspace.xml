@@ -14,76 +14,44 @@
     <session id="1434361193">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="php" value="10" />
+          <entry key="php" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="10" />
+          <entry key="PHP" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="php" value="1349" />
+          <entry key="php" value="1679" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="1349" />
+          <entry key="PHP" value="1679" />
           <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/题库/876-链表的中间结点.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-161">
-              <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="14" />
-              <folding>
-                <element signature="e#6#524#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/经典算法题/BubbleSort.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-              <folding>
-                <element signature="e#6#159#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/题库/1-两数之和.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-              <folding>
-                <element signature="e#6#307#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,6 +64,7 @@
         <option value="$PROJECT_DIR$/题库/1-两数之和.php" />
         <option value="$PROJECT_DIR$/题库/2. 两数相加.php" />
         <option value="$PROJECT_DIR$/经典算法题/BubbleSort.php" />
+        <option value="$PROJECT_DIR$/经典算法题/CocktailSort.php" />
       </list>
     </option>
   </component>
@@ -117,7 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,11 +107,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../server/wamp/www/root/home/52edu.0.x" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -173,17 +142,18 @@
       <workItem from="1584927456372" duration="2540000" />
       <workItem from="1585015223459" duration="1708000" />
       <workItem from="1585099236031" duration="3021000" />
-      <workItem from="1585532235905" duration="1932000" />
+      <workItem from="1585532235905" duration="7076000" />
+      <workItem from="1585618420749" duration="3385000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9201000" />
+    <option name="totallyTimeSpent" value="17730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.260745" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26432666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -222,9 +192,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-161">
           <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="14" />
-          <folding>
-            <element signature="e#6#524#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -232,18 +199,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/CocktailSort.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
           <folding>
-            <element signature="e#6#307#0#PHP" expanded="true" />
+            <element signature="e#6#334#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/经典算法题/BubbleSort.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        <state relative-caret-position="389">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="14" />
           <folding>
-            <element signature="e#6#159#0#PHP" expanded="true" />
+            <element signature="e#6#461#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
